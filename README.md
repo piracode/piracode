@@ -15,10 +15,10 @@ My name is Martha 😀, and I'm a recent graduate of the Front-End Web Developme
 - Upcoming: Exploring the power of Next.js.
 - 
 
-**When I'm not coding, you'll find me:**
-- 🎶 Playing music: I'm a music enthusiast and love playing various instruments.
-- 💃 Dancing flamenco: The rhythm and energy of flamenco dance fuel my creativity.
-- 🥾 Hiking: Exploring the great outdoors helps me find inspiration in nature.
+🎶 💃 🥾 **When I'm not coding, you'll find me:**
+- Playing music: I'm a music enthusiast and love playing various instruments.
+- Dancing flamenco: The rhythm and energy of flamenco dance fuel my creativity.
+- Hiking with my dog: Exploring the great outdoors helps me find inspiration in nature.
 
 I'm an active participant in hackathons, having completed "Hack the Break 2023." I'm excited about the learning and innovation opportunities they provide and am looking forward to joining more in the future.
 
