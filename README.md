@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Martha 😀, and I'm a recent graduate of the Front-End Web Development program at BCIT in Vancouver, BC, Canada.
+My name is Martha 😀, and I'm a graduate of the Front-End Web Development program at BCIT in Vancouver, BC, Canada.
 
 📍 You can find my **portfolio** here: [martha.codes](https://www.martha.codes/)
 
 🔭 **I’m currently working on exciting projects:**
-- Building a headless CMS website with Vue.js and Tailwind. Check it out: [Pizzeria Arena](https://martha.codes/pizzeria-arena).
-- Creating a Woocommerce store for an artist.
+- Building a headless CMS website with Vue.js and Tailwind. Check it out: [Pizzeria Arena](https://pizzeria.es) -> One more bug to fix!
+- Creating a Woocommerce store -> taking longer than intended!
 
 🌱 **I’m constantly refining my skills in:**
 - React, Vue, and basic JavaScript.
