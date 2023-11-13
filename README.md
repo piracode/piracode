@@ -5,15 +5,10 @@ My name is Martha 😀, and I'm a graduate of the Front-End Web Development prog
 📍 You can find my **portfolio** here: [martha.codes](https://www.martha.codes/)
 
 🔭 **I’m currently working on exciting projects:**
-- Building a headless CMS website with Vue.js and Tailwind. Check it out: [Pizzeria Arena](https://pizzeria.es) -> One more bug to fix!
+- I am basically done with this headless CMS with Vue and Tailwind [Pizzeria Arena](https://pizzeria.es) 
 - Creating a Woocommerce store -> taking longer than intended!
+- Building a churreria/cafeteria site
 
-🌱 **I’m constantly refining my skills in:**
-- React, Vue, and basic JavaScript.
-- Tailwind CSS for crafting beautiful UIs.
-- Learning Alpine.js to add interactivity.
-- Upcoming: Exploring the power of Next.js.
-- 
 
 🎶 💃 🥾 **When I'm not coding, you'll find me:**
 - Playing music: I'm a music enthusiast and love playing various instruments.
